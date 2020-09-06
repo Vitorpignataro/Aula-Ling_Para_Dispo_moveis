@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pinh4ta Pizzaria</string>
+    <string name="buttonRegistro">Registrar pedido</string>
+    <string name="buttonTotalHoras">Total De horas Trabalhadas</string>
+</resources>
