@@ -23,7 +23,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:padding="10dp"
-        android:text="@string/buttonRegistro" />
+        android:text="@string/buttonRegistro"
+        android:onClick="OnclickRegitrando" />
 
     <Button
         android:id="@+id/buttonTotalhoras"
@@ -31,7 +32,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:padding="10dp"
-        android:text="@string/buttonTotalHoras" />
+        android:text="@string/buttonTotalHoras"
+        android:onClick="OnclickHoursRegis" />
 
     <TextView
         android:id="@+id/notificaoRegistropedido"
